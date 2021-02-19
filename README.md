@@ -1,6 +1,12 @@
 # Trello-Clone
 A Trello Clone created with VueJS
 
+![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
+
+# Built with:
+  * [VueJS](https://vuejs.org/)
+  * [TailwindCSS](https://tailwindcss.com/)
+
 ## Project setup
 ```
 npm install
