@@ -1,7 +1,7 @@
 # Trello-Clone
 A Trello Clone created with VueJS
 
-![alt text](https://github.com/edmiller1/wave-react-player/blob/main/waves.png?raw=true)
+![alt text](https://github.com/edmiller1/Trello-Clone/blob/master/trello.png?raw=true)
 
 # Built with:
   * [VueJS](https://vuejs.org/)
